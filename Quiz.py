@@ -8,7 +8,7 @@ class Question:
          
             
             
-question_prompts =open ("andy.txt", "r") 
+question_prompts =open ("Questions.txt", "r") 
 content = question_prompts.read()
 
 
